@@ -1,7 +1,15 @@
-# Pincel, Projeto Orientação Objeto
+# Paralelogromo, Projeto Orientação Objeto
+
+# Tela Acessar Projeto
 
 <a href="#">
-<img align="center"  alt="jonas-Layout" height ="400" width ="650" src ="https://user-images.githubusercontent.com/25933386/211168359-3f90eac7-4608-49b0-a3c6-25b2f682fcef.JPG"></img>
+<img align="center"  alt="jonas-Layout" height ="400" width ="650" src ="https://user-images.githubusercontent.com/25933386/211170204-7203fd24-00a7-4e27-841c-2def52ccafd4.JPG"></img>
+</a>
+
+# Tela Principal do Projeto
+
+<a href="#">
+<img align="center"  alt="jonas-Layout" height ="400" width ="650" src ="https://user-images.githubusercontent.com/25933386/211170244-72d2ca69-98be-4eb3-a9c9-f31eda96fb7f.JPG"></img>
 </a>
 
 # Classe Dados do Projeto
