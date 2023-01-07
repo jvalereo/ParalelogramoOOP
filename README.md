@@ -15,7 +15,7 @@
 # Classe Dados do Projeto
 
 <a href="#">
-<img align="center"  alt="jonas-Layout" height ="300" width ="300" src ="https://user-images.githubusercontent.com/25933386/211170364-91a62455-0d20-4327-a9fb-8fcf7e35a46f.JPG"></img>
+<img align="center"  alt="jonas-Layout" height ="400" width ="400" src ="https://user-images.githubusercontent.com/25933386/211170364-91a62455-0d20-4327-a9fb-8fcf7e35a46f.JPG"></img>
 </a>
 
 
