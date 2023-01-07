@@ -1,4 +1,4 @@
-# Paralelogromo, Projeto Orientação Objeto
+# Paralelogramo, Projeto Orientação Objeto
 
 # Tela Acessar Projeto
 
@@ -33,7 +33,7 @@
 
 # Sobre o Projeto
 
-- Paralelogromo, projeto Orientação objeto em C#
+- Paralelogramo, projeto Orientação objeto em C#
 - Treinamento e atualização no aprendizado em programação orientado objeto
 - Treinamento , aprendendo a desenvolver, attributos, construtores, metodos, desenvolvimentos de telas, organização de classe em C#.
 - Tenho formação Técnico em informática, mas sempre estou me aprimorando na aréa de teconologia.
